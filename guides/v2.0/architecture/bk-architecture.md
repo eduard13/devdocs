@@ -14,3 +14,5 @@ The Magento platform and components are explained from the perspective of severa
 
 More detailed information about building online stores, using the Magento APIs, installing, configuring, and extending the platform is included in other books in our [Magento library]({{ site.baseurl }}/index.html).
 
+New Text.
+
